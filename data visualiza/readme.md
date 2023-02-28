@@ -17,30 +17,26 @@ To use this script, you will need to have R installed on your computer, as well 
 
 The script includes the following visualizations:
 
-- A bar graph of BMI counts
+- A bar graph of test preparation
+![studentplot1](https://user-images.githubusercontent.com/116953930/221941076-87e75c78-3569-4e66-903e-93de1219e816.jpeg)
 
-![Rplot01](https://user-images.githubusercontent.com/110415018/220644102-e6fd16a0-2178-4f28-9cca-e85909fdce56.png)
 
-- A bar graph of BMI counts by gender
+- A bar graph of test prep w.r.t. gender
 
-![Rplot02](https://user-images.githubusercontent.com/110415018/220644167-8b806a3d-6b23-4111-8fde-94c594e305cc.png)
+![studeentplot2](https://user-images.githubusercontent.com/116953930/221941124-c32a7d0e-ee94-4643-9366-941d7c93f133.jpeg)
 
-- A histogram of height distribution
+- A bar graph w.r.t lunch category
+![tudent plot 3](https://user-images.githubusercontent.com/116953930/221941158-0a5b77bb-0bca-4d33-890b-7b00cdc811fb.jpeg)
 
-![Rplot03](https://user-images.githubusercontent.com/110415018/220644204-d9b6d7a5-929b-4471-8ef7-700a33ba5d06.png)
 
-- A histogram of weight distribution
+- A histogram test prep w.r.t lunch and gender
+![student plot 4](https://user-images.githubusercontent.com/116953930/221941211-ac018fd0-2535-438a-a24e-e8d2bbb83051.jpeg)
 
-![Rplot04](https://user-images.githubusercontent.com/110415018/220644280-ae9a0273-0a8a-46f3-9b1e-ee7e1622484c.png)
 
-- A pie chart of BMI ratios by gender
+- A pie chart of test prep and lunch
+![student plot 5](https://user-images.githubusercontent.com/116953930/221941258-5204200e-3ea7-46ff-ac07-220e37a2e765.jpeg)
 
-![Rplot05](https://user-images.githubusercontent.com/110415018/220644339-10573447-f0ef-461c-993e-4bb4083bfb0c.png)
 
-- A box plot of BMI by height
+-  A density plot of student data by race,lunch,gender.
+![student plot 6](https://user-images.githubusercontent.com/116953930/221941301-bc04cfbd-15f1-476a-94c0-528e05fcf4d7.jpeg)
 
-![Rplot06](https://user-images.githubusercontent.com/110415018/220644386-c9fd0691-9d41-4855-821a-af79e614e014.png)
-
-- A density plot of BMI by height, weight, and gender
-
-![Rplot07](https://user-images.githubusercontent.com/110415018/220644444-48fd147b-8387-469c-be0a-7f81b278bc2f.png)
